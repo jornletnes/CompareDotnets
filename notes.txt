@@ -1,0 +1,24 @@
+What is Blazor?
+Blazor is a .NET web framework that runs in any browser.
+
+What is Xamarin?
+Xamarin’s Mono-based C# widely-used mobile devices, including Android-based smartphones and tablets, iPhone, iPad and iPod Touch.
+
+WinForms (2003-2014) -> WPF (windows presentation foundation, ) -> UWP (universal windows platform, win10) ( mono (.net framework) )
+
+
+XAMARIN -> MAUI
+
+dotnet framework vs dotnet core. framework er død. dotnet core genererer raskere kode.
+
+Microsoft vil samle alle verktøyene og teknologiene sine og gi oss en, og bare en, vei fremover.
+
+dotnet 5 - C# 9
+
+
+DOTNET 6 - C# 10 skal være lett å begynne å bruke - nybegynnervennlig. minimale APIer.
+
+
+Nye Studio
+
+Records.
